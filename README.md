@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/bufulaa/bufulaa/refs/heads/main/iamlamnemoui.png" align="center" style="width: 100%" />
 </div>
 ## <div align="center">I am lamnemoui ⛄</div> 
 
