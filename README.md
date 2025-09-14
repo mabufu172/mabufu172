@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### <div align="center">I am lamnemoui ⛄</div> 
+## <div align="center">I am bufulaa ⛄</div> 
 
 - 🌱 I’m currently learning GODOT
 - 👯 I’m looking to collaborate on any projects and i'll be glad to help!
@@ -18,6 +16,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
 
 ## Connect With Me 🐱‍🐉
 <div align="left">
