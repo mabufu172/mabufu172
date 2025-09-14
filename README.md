@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/bufulaa/bufulaa/refs/heads/main/i%20am%20lawnmower.png" align="center" style="width: 100%" />
 </div>
 
+<br/>
+
 - 🌱 I’m currently learning GODOT
 - 👯 I’m looking to collaborate on any projects and i'll be glad to help!
 - 💬 Talk to me about anything! I am a good listener (I think)
