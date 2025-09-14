@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/bufulaa/bufulaa/refs/heads/main/i%20am%20lam.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/bufulaa/bufulaa/refs/heads/main/i%20am%20lawnmower.png" align="center" style="width: 100%" />
 </div>
-
-## <div align="center">I am lamnemoui ⛄</div> 
 
 - 🌱 I’m currently learning GODOT
 - 👯 I’m looking to collaborate on any projects and i'll be glad to help!
