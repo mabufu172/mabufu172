@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/bufulaa/bufulaa/refs/heads/main/i%20am%20powerful%20lawnmower.png" align="center" style="width: 50%" />
 </div>
 
-<br/>
+<br/><br/>
 
 - 🌱 I’m currently learning GODOT
 - 👯 I’m looking to collaborate on any projects and i'll be glad to help!
