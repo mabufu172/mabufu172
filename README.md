@@ -21,13 +21,10 @@
 
 ## Connect With Me 🐱‍🐉
 <div align="left">
-  
 <a href="https://discord.com/users/1010860518791196733" target="_blank">
 <img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-  
+
 <a href="https://steamcommunity.com/id/pampamimi/" target="_blank">
 <img src=https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin-bottom: 5px;" />
 </a>
-
 </div>
