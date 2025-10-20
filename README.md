@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-- 🌱 I’m currently learning GODOT
+- 🌱 I’m currently learning Hyprland!
 - 👯 I’m looking to collaborate on any projects and i'll be glad to help!
 - 💬 Talk to me about anything! I am a good listener (I think)
 
