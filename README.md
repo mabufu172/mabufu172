@@ -5,7 +5,7 @@
 <br/><br/>
 
 - 🌱 I’m currently learning Rust and Fabric API!
-- 🔧 I'm currently working on my dotfiles and discord bots!
+- 🔧 I'm currently working on my hyprland dotfiles and botmimimi!
 - 👯 I’m looking to collaborate on any projects and i'll be glad to help!
 - 💬 Talk to me about anything! I am a good listener (I think)
 
